@@ -8,5 +8,7 @@ int main(void) {
         factorial*=i;
     }
     printf("Factorial of %d\n",n, factorial);
+    }
+    printf("Anees Sanjana");
     return 0;
-}
+ }
